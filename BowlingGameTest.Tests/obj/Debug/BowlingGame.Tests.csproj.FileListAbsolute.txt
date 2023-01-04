@@ -1,0 +1,17 @@
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\BowlingGameTest.Tests.dll
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\BowlingGameTest.Tests.pdb
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Development\BowlingGame\BowlingGameTest.Tests\obj\Debug\BowlingGame.Tests.csproj.AssemblyReference.cache
+C:\Development\BowlingGame\BowlingGameTest.Tests\obj\Debug\BowlingGame.Tests.csproj.CoreCompileInputs.cache
+C:\Development\BowlingGame\BowlingGameTest.Tests\obj\Debug\BowlingGame.Tests.csproj.CopyComplete
+C:\Development\BowlingGame\BowlingGameTest.Tests\obj\Debug\BowlingGameTest.Tests.dll
+C:\Development\BowlingGame\BowlingGameTest.Tests\obj\Debug\BowlingGameTest.Tests.pdb
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\BowlingGame.exe
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\BowlingGame.pdb
+C:\Development\BowlingGame\BowlingGameTest.Tests\bin\Debug\BowlingGame.exe.config
