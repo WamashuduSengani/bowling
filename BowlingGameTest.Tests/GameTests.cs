@@ -8,18 +8,18 @@ namespace BowlingGameTest.Tests
     public class GameTests
     {
         //Declaring the game
-        private BowlingGamePlay game;
+        private Game game;
 
         public GameTests()
         {
-            game = new BowlingGamePlay();
+            game = new Game();
         }
 
 
         [TestMethod]
         public void CanCreateGame()
         {
-            var game = new BowlingGamePlay();
+            var game = new Game();
         }
 
        
