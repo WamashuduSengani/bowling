@@ -13,7 +13,7 @@ namespace BowlingGame
         static void Main(string[] args)
         {
 
-            BowlingGamePlay bowlingGamePlay = new BowlingGamePlay();
+            Game bowlingGamePlay = new Game();
             bowlingGamePlay.simulatePlayer();
 
         }
