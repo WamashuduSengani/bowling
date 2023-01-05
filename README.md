@@ -46,3 +46,12 @@ tenth frame.
 
 5. Then in your terminal run this command `mono Program.exe` then bowling game will start
  
+# How to run for windows
+
+1. Clone this repository to your machine locally https://github.com/WamashuduSengani/bowling.git
+
+2. Open the repo you have cloned locally which is named "bowling" with Visual Studio 
+
+3. Once you are inside the repo on a folder named `BowlingGame`
+
+4. Click on Program.cs and press run in Visual Studio then Bowling Game will start
