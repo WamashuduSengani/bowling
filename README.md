@@ -55,3 +55,7 @@ tenth frame.
 3. Once you are inside the repo on a folder named `BowlingGame`
 
 4. Click on Program.cs and press run in Visual Studio then Bowling Game will start
+
+# Game screenshot
+
+![Alt text](/bowling/BowlingGame/Game screenshot.png?raw=true "Optional Title")
