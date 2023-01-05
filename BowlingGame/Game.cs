@@ -111,14 +111,14 @@ namespace BowlingGame
 
                 }
 
-                //Second Strike with Bowl one iput being a 10
+                //Second Strike with Bowl one input being a 10
                 if (strikeTwo == true && bowlOneInput == 10)
                 {
                     prevFrameTwo = 30;
                     totalScore = prevFrameTwo + totalScore;
                     finalScore = Game.finalScore(totalScore, finalScore);
                 }
-                //Second Strike with Bowl one iput being not being a 10
+                //Second Strike with Bowl one input being not being a 10
                 if (strikeTwo == true && bowlOneInput != 10)
                 {
                     strikeTwo = false;
